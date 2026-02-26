@@ -108,7 +108,6 @@ Start (▶) or F5
 
 The project should now run successfully.
 
-
 👨‍💻 Author
 
 Salman Farshi
