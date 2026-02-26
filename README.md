@@ -107,3 +107,10 @@ Click:
 Start (▶) or F5
 
 The project should now run successfully.
+
+
+👨‍💻 Author
+
+Salman Farshi
+BSc in Computer Science & Engineering
+Focused on Cybersecurity & Software Development
